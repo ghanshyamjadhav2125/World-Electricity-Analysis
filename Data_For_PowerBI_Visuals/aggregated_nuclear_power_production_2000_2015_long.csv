@@ -1,0 +1,353 @@
+Region,IncomeGroup,Year,NuclearPowerProduction
+East Asia & Pacific,High income,2000,67.37
+East Asia & Pacific,High income,2001,66.12
+East Asia & Pacific,High income,2002,63.14
+East Asia & Pacific,High income,2003,59.980000000000004
+East Asia & Pacific,High income,2004,61.1
+East Asia & Pacific,High income,2005,64.82000000000001
+East Asia & Pacific,High income,2006,63.82
+East Asia & Pacific,High income,2007,56.43000000000001
+East Asia & Pacific,High income,2008,57.44
+East Asia & Pacific,High income,2009,58.9
+East Asia & Pacific,High income,2010,55.2
+East Asia & Pacific,High income,2011,39.22
+East Asia & Pacific,High income,2012,29.82
+East Asia & Pacific,High income,2013,26.68
+East Asia & Pacific,High income,2014,28.65
+East Asia & Pacific,High income,2015,30.91
+East Asia & Pacific,Low income,2000,0.0
+East Asia & Pacific,Low income,2001,0.0
+East Asia & Pacific,Low income,2002,0.0
+East Asia & Pacific,Low income,2003,0.0
+East Asia & Pacific,Low income,2004,0.0
+East Asia & Pacific,Low income,2005,0.0
+East Asia & Pacific,Low income,2006,0.0
+East Asia & Pacific,Low income,2007,0.0
+East Asia & Pacific,Low income,2008,0.0
+East Asia & Pacific,Low income,2009,0.0
+East Asia & Pacific,Low income,2010,0.0
+East Asia & Pacific,Low income,2011,0.0
+East Asia & Pacific,Low income,2012,0.0
+East Asia & Pacific,Low income,2013,0.0
+East Asia & Pacific,Low income,2014,0.0
+East Asia & Pacific,Low income,2015,0.0
+East Asia & Pacific,Lower middle income,2000,0.0
+East Asia & Pacific,Lower middle income,2001,0.0
+East Asia & Pacific,Lower middle income,2002,0.0
+East Asia & Pacific,Lower middle income,2003,0.0
+East Asia & Pacific,Lower middle income,2004,0.0
+East Asia & Pacific,Lower middle income,2005,0.0
+East Asia & Pacific,Lower middle income,2006,0.0
+East Asia & Pacific,Lower middle income,2007,0.0
+East Asia & Pacific,Lower middle income,2008,0.0
+East Asia & Pacific,Lower middle income,2009,0.0
+East Asia & Pacific,Lower middle income,2010,0.0
+East Asia & Pacific,Lower middle income,2011,0.0
+East Asia & Pacific,Lower middle income,2012,0.0
+East Asia & Pacific,Lower middle income,2013,0.0
+East Asia & Pacific,Lower middle income,2014,0.0
+East Asia & Pacific,Lower middle income,2015,0.0
+East Asia & Pacific,Upper middle income,2000,1.23
+East Asia & Pacific,Upper middle income,2001,1.18
+East Asia & Pacific,Upper middle income,2002,1.52
+East Asia & Pacific,Upper middle income,2003,2.27
+East Asia & Pacific,Upper middle income,2004,2.29
+East Asia & Pacific,Upper middle income,2005,2.12
+East Asia & Pacific,Upper middle income,2006,1.91
+East Asia & Pacific,Upper middle income,2007,1.89
+East Asia & Pacific,Upper middle income,2008,1.97
+East Asia & Pacific,Upper middle income,2009,1.89
+East Asia & Pacific,Upper middle income,2010,1.76
+East Asia & Pacific,Upper middle income,2011,1.84
+East Asia & Pacific,Upper middle income,2012,1.95
+East Asia & Pacific,Upper middle income,2013,2.05
+East Asia & Pacific,Upper middle income,2014,2.34
+East Asia & Pacific,Upper middle income,2015,0.0
+Europe & Central Asia,High income,2000,565.88
+Europe & Central Asia,High income,2001,571.58
+Europe & Central Asia,High income,2002,585.38
+Europe & Central Asia,High income,2003,581.98
+Europe & Central Asia,High income,2004,578.01
+Europe & Central Asia,High income,2005,570.03
+Europe & Central Asia,High income,2006,566.81
+Europe & Central Asia,High income,2007,554.3199999999999
+Europe & Central Asia,High income,2008,562.01
+Europe & Central Asia,High income,2009,565.43
+Europe & Central Asia,High income,2010,479.12
+Europe & Central Asia,High income,2011,496.76
+Europe & Central Asia,High income,2012,484.34999999999997
+Europe & Central Asia,High income,2013,494.21000000000004
+Europe & Central Asia,High income,2014,501.99
+Europe & Central Asia,High income,2015,457.76
+Europe & Central Asia,Lower middle income,2000,45.16
+Europe & Central Asia,Lower middle income,2001,44.08
+Europe & Central Asia,Lower middle income,2002,44.93
+Europe & Central Asia,Lower middle income,2003,45.17
+Europe & Central Asia,Lower middle income,2004,47.81
+Europe & Central Asia,Lower middle income,2005,47.74
+Europe & Central Asia,Lower middle income,2006,46.69
+Europe & Central Asia,Lower middle income,2007,47.15
+Europe & Central Asia,Lower middle income,2008,46.65
+Europe & Central Asia,Lower middle income,2009,47.76
+Europe & Central Asia,Lower middle income,2010,47.21
+Europe & Central Asia,Lower middle income,2011,46.29
+Europe & Central Asia,Lower middle income,2012,45.44
+Europe & Central Asia,Lower middle income,2013,42.96
+Europe & Central Asia,Lower middle income,2014,48.57
+Europe & Central Asia,Lower middle income,2015,0.0
+Europe & Central Asia,Upper middle income,2000,93.28
+Europe & Central Asia,Upper middle income,2001,94.9
+Europe & Central Asia,Upper middle income,2002,105.23
+Europe & Central Asia,Upper middle income,2003,93.58
+Europe & Central Asia,Upper middle income,2004,92.65
+Europe & Central Asia,Upper middle income,2005,101.13
+Europe & Central Asia,Upper middle income,2006,103.02
+Europe & Central Asia,Upper middle income,2007,93.18
+Europe & Central Asia,Upper middle income,2008,93.71
+Europe & Central Asia,Upper middle income,2009,96.5
+Europe & Central Asia,Upper middle income,2010,87.95
+Europe & Central Asia,Upper middle income,2011,83.32
+Europe & Central Asia,Upper middle income,2012,79.25
+Europe & Central Asia,Upper middle income,2013,79.82
+Europe & Central Asia,Upper middle income,2014,82.64
+Europe & Central Asia,Upper middle income,2015,0.0
+Latin America & Caribbean,High income,2000,0.0
+Latin America & Caribbean,High income,2001,0.0
+Latin America & Caribbean,High income,2002,0.0
+Latin America & Caribbean,High income,2003,0.0
+Latin America & Caribbean,High income,2004,0.0
+Latin America & Caribbean,High income,2005,0.0
+Latin America & Caribbean,High income,2006,0.0
+Latin America & Caribbean,High income,2007,0.0
+Latin America & Caribbean,High income,2008,0.0
+Latin America & Caribbean,High income,2009,0.0
+Latin America & Caribbean,High income,2010,0.0
+Latin America & Caribbean,High income,2011,0.0
+Latin America & Caribbean,High income,2012,0.0
+Latin America & Caribbean,High income,2013,0.0
+Latin America & Caribbean,High income,2014,0.0
+Latin America & Caribbean,High income,2015,0.0
+Latin America & Caribbean,Lower middle income,2000,0.0
+Latin America & Caribbean,Lower middle income,2001,0.0
+Latin America & Caribbean,Lower middle income,2002,0.0
+Latin America & Caribbean,Lower middle income,2003,0.0
+Latin America & Caribbean,Lower middle income,2004,0.0
+Latin America & Caribbean,Lower middle income,2005,0.0
+Latin America & Caribbean,Lower middle income,2006,0.0
+Latin America & Caribbean,Lower middle income,2007,0.0
+Latin America & Caribbean,Lower middle income,2008,0.0
+Latin America & Caribbean,Lower middle income,2009,0.0
+Latin America & Caribbean,Lower middle income,2010,0.0
+Latin America & Caribbean,Lower middle income,2011,0.0
+Latin America & Caribbean,Lower middle income,2012,0.0
+Latin America & Caribbean,Lower middle income,2013,0.0
+Latin America & Caribbean,Lower middle income,2014,0.0
+Latin America & Caribbean,Lower middle income,2015,0.0
+Latin America & Caribbean,Upper middle income,2000,12.68
+Latin America & Caribbean,Upper middle income,2001,16.259999999999998
+Latin America & Caribbean,Upper middle income,2002,15.36
+Latin America & Caribbean,Upper middle income,2003,16.34
+Latin America & Caribbean,Upper middle income,2004,14.73
+Latin America & Caribbean,Upper middle income,2005,13.28
+Latin America & Caribbean,Upper middle income,2006,14.69
+Latin America & Caribbean,Upper middle income,2007,13.42
+Latin America & Caribbean,Upper middle income,2008,12.690000000000001
+Latin America & Caribbean,Upper middle income,2009,13.39
+Latin America & Caribbean,Upper middle income,2010,10.67
+Latin America & Caribbean,Upper middle income,2011,11.19
+Latin America & Caribbean,Upper middle income,2012,10.469999999999999
+Latin America & Caribbean,Upper middle income,2013,11.14
+Latin America & Caribbean,Upper middle income,2014,9.98
+Latin America & Caribbean,Upper middle income,2015,3.72
+Middle East & North Africa,High income,2000,0.0
+Middle East & North Africa,High income,2001,0.0
+Middle East & North Africa,High income,2002,0.0
+Middle East & North Africa,High income,2003,0.0
+Middle East & North Africa,High income,2004,0.0
+Middle East & North Africa,High income,2005,0.0
+Middle East & North Africa,High income,2006,0.0
+Middle East & North Africa,High income,2007,0.0
+Middle East & North Africa,High income,2008,0.0
+Middle East & North Africa,High income,2009,0.0
+Middle East & North Africa,High income,2010,0.0
+Middle East & North Africa,High income,2011,0.0
+Middle East & North Africa,High income,2012,0.0
+Middle East & North Africa,High income,2013,0.0
+Middle East & North Africa,High income,2014,0.0
+Middle East & North Africa,High income,2015,0.0
+Middle East & North Africa,Low income,2000,0.0
+Middle East & North Africa,Low income,2001,0.0
+Middle East & North Africa,Low income,2002,0.0
+Middle East & North Africa,Low income,2003,0.0
+Middle East & North Africa,Low income,2004,0.0
+Middle East & North Africa,Low income,2005,0.0
+Middle East & North Africa,Low income,2006,0.0
+Middle East & North Africa,Low income,2007,0.0
+Middle East & North Africa,Low income,2008,0.0
+Middle East & North Africa,Low income,2009,0.0
+Middle East & North Africa,Low income,2010,0.0
+Middle East & North Africa,Low income,2011,0.0
+Middle East & North Africa,Low income,2012,0.0
+Middle East & North Africa,Low income,2013,0.0
+Middle East & North Africa,Low income,2014,0.0
+Middle East & North Africa,Low income,2015,0.0
+Middle East & North Africa,Lower middle income,2000,0.0
+Middle East & North Africa,Lower middle income,2001,0.0
+Middle East & North Africa,Lower middle income,2002,0.0
+Middle East & North Africa,Lower middle income,2003,0.0
+Middle East & North Africa,Lower middle income,2004,0.0
+Middle East & North Africa,Lower middle income,2005,0.0
+Middle East & North Africa,Lower middle income,2006,0.0
+Middle East & North Africa,Lower middle income,2007,0.0
+Middle East & North Africa,Lower middle income,2008,0.0
+Middle East & North Africa,Lower middle income,2009,0.0
+Middle East & North Africa,Lower middle income,2010,0.0
+Middle East & North Africa,Lower middle income,2011,0.14
+Middle East & North Africa,Lower middle income,2012,0.73
+Middle East & North Africa,Lower middle income,2013,1.73
+Middle East & North Africa,Lower middle income,2014,1.63
+Middle East & North Africa,Lower middle income,2015,0.0
+Middle East & North Africa,Upper middle income,2000,0.0
+Middle East & North Africa,Upper middle income,2001,0.0
+Middle East & North Africa,Upper middle income,2002,0.0
+Middle East & North Africa,Upper middle income,2003,0.0
+Middle East & North Africa,Upper middle income,2004,0.0
+Middle East & North Africa,Upper middle income,2005,0.0
+Middle East & North Africa,Upper middle income,2006,0.0
+Middle East & North Africa,Upper middle income,2007,0.0
+Middle East & North Africa,Upper middle income,2008,0.0
+Middle East & North Africa,Upper middle income,2009,0.0
+Middle East & North Africa,Upper middle income,2010,0.0
+Middle East & North Africa,Upper middle income,2011,0.0
+Middle East & North Africa,Upper middle income,2012,0.0
+Middle East & North Africa,Upper middle income,2013,0.0
+Middle East & North Africa,Upper middle income,2014,0.0
+Middle East & North Africa,Upper middle income,2015,0.0
+North America,High income,2000,31.83
+North America,High income,2001,33.65
+North America,High income,2002,32.54
+North America,High income,2003,32.129999999999995
+North America,High income,2004,34.68
+North America,High income,2005,33.82
+North America,High income,2006,35.120000000000005
+North America,High income,2007,34.22
+North America,High income,2008,34.489999999999995
+North America,High income,2009,34.71
+North America,High income,2010,34.28
+North America,High income,2011,33.69
+North America,High income,2012,33.660000000000004
+North America,High income,2013,34.72
+North America,High income,2014,35.35
+North America,High income,2015,34.870000000000005
+South Asia,Low income,2000,0.0
+South Asia,Low income,2001,0.0
+South Asia,Low income,2002,0.0
+South Asia,Low income,2003,0.0
+South Asia,Low income,2004,0.0
+South Asia,Low income,2005,0.0
+South Asia,Low income,2006,0.0
+South Asia,Low income,2007,0.0
+South Asia,Low income,2008,0.0
+South Asia,Low income,2009,0.0
+South Asia,Low income,2010,0.0
+South Asia,Low income,2011,0.0
+South Asia,Low income,2012,0.0
+South Asia,Low income,2013,0.0
+South Asia,Low income,2014,0.0
+South Asia,Low income,2015,0.0
+South Asia,Lower middle income,2000,5.9
+South Asia,Lower middle income,2001,6.470000000000001
+South Asia,Lower middle income,2002,5.48
+South Asia,Lower middle income,2003,4.91
+South Asia,Lower middle income,2004,5.75
+South Asia,Lower middle income,2005,5.07
+South Asia,Lower middle income,2006,4.76
+South Asia,Lower middle income,2007,5.28
+South Asia,Lower middle income,2008,3.5300000000000002
+South Asia,Lower middle income,2009,5.06
+South Asia,Lower middle income,2010,6.300000000000001
+South Asia,Lower middle income,2011,8.54
+South Asia,Lower middle income,2012,7.67
+South Asia,Lower middle income,2013,7.76
+South Asia,Lower middle income,2014,7.55
+South Asia,Lower middle income,2015,0.0
+South Asia,Upper middle income,2000,0.0
+South Asia,Upper middle income,2001,0.0
+South Asia,Upper middle income,2002,0.0
+South Asia,Upper middle income,2003,0.0
+South Asia,Upper middle income,2004,0.0
+South Asia,Upper middle income,2005,0.0
+South Asia,Upper middle income,2006,0.0
+South Asia,Upper middle income,2007,0.0
+South Asia,Upper middle income,2008,0.0
+South Asia,Upper middle income,2009,0.0
+South Asia,Upper middle income,2010,0.0
+South Asia,Upper middle income,2011,0.0
+South Asia,Upper middle income,2012,0.0
+South Asia,Upper middle income,2013,0.0
+South Asia,Upper middle income,2014,0.0
+South Asia,Upper middle income,2015,0.0
+Sub-Saharan Africa,High income,2000,0.0
+Sub-Saharan Africa,High income,2001,0.0
+Sub-Saharan Africa,High income,2002,0.0
+Sub-Saharan Africa,High income,2003,0.0
+Sub-Saharan Africa,High income,2004,0.0
+Sub-Saharan Africa,High income,2005,0.0
+Sub-Saharan Africa,High income,2006,0.0
+Sub-Saharan Africa,High income,2007,0.0
+Sub-Saharan Africa,High income,2008,0.0
+Sub-Saharan Africa,High income,2009,0.0
+Sub-Saharan Africa,High income,2010,0.0
+Sub-Saharan Africa,High income,2011,0.0
+Sub-Saharan Africa,High income,2012,0.0
+Sub-Saharan Africa,High income,2013,0.0
+Sub-Saharan Africa,High income,2014,0.0
+Sub-Saharan Africa,High income,2015,0.0
+Sub-Saharan Africa,Low income,2000,0.0
+Sub-Saharan Africa,Low income,2001,0.0
+Sub-Saharan Africa,Low income,2002,0.0
+Sub-Saharan Africa,Low income,2003,0.0
+Sub-Saharan Africa,Low income,2004,0.0
+Sub-Saharan Africa,Low income,2005,0.0
+Sub-Saharan Africa,Low income,2006,0.0
+Sub-Saharan Africa,Low income,2007,0.0
+Sub-Saharan Africa,Low income,2008,0.0
+Sub-Saharan Africa,Low income,2009,0.0
+Sub-Saharan Africa,Low income,2010,0.0
+Sub-Saharan Africa,Low income,2011,0.0
+Sub-Saharan Africa,Low income,2012,0.0
+Sub-Saharan Africa,Low income,2013,0.0
+Sub-Saharan Africa,Low income,2014,0.0
+Sub-Saharan Africa,Low income,2015,0.0
+Sub-Saharan Africa,Lower middle income,2000,0.0
+Sub-Saharan Africa,Lower middle income,2001,0.0
+Sub-Saharan Africa,Lower middle income,2002,0.0
+Sub-Saharan Africa,Lower middle income,2003,0.0
+Sub-Saharan Africa,Lower middle income,2004,0.0
+Sub-Saharan Africa,Lower middle income,2005,0.0
+Sub-Saharan Africa,Lower middle income,2006,0.0
+Sub-Saharan Africa,Lower middle income,2007,0.0
+Sub-Saharan Africa,Lower middle income,2008,0.0
+Sub-Saharan Africa,Lower middle income,2009,0.0
+Sub-Saharan Africa,Lower middle income,2010,0.0
+Sub-Saharan Africa,Lower middle income,2011,0.0
+Sub-Saharan Africa,Lower middle income,2012,0.0
+Sub-Saharan Africa,Lower middle income,2013,0.0
+Sub-Saharan Africa,Lower middle income,2014,0.0
+Sub-Saharan Africa,Lower middle income,2015,0.0
+Sub-Saharan Africa,Upper middle income,2000,6.26
+Sub-Saharan Africa,Upper middle income,2001,5.15
+Sub-Saharan Africa,Upper middle income,2002,5.49
+Sub-Saharan Africa,Upper middle income,2003,5.48
+Sub-Saharan Africa,Upper middle income,2004,5.55
+Sub-Saharan Africa,Upper middle income,2005,4.67
+Sub-Saharan Africa,Upper middle income,2006,4.0
+Sub-Saharan Africa,Upper middle income,2007,4.34
+Sub-Saharan Africa,Upper middle income,2008,5.09
+Sub-Saharan Africa,Upper middle income,2009,5.19
+Sub-Saharan Africa,Upper middle income,2010,4.71
+Sub-Saharan Africa,Upper middle income,2011,5.2
+Sub-Saharan Africa,Upper middle income,2012,4.69
+Sub-Saharan Africa,Upper middle income,2013,5.57
+Sub-Saharan Africa,Upper middle income,2014,5.53
+Sub-Saharan Africa,Upper middle income,2015,0.0
